@@ -1,6 +1,7 @@
 # C.O.Y.O.T.E.
 
 Control Of Your Own Trajectory Estimation
+[Documentation](https://brickbuilder0658.github.io/coyote/org/firstinspires/ftc/teamcode/package-summary.html)
 
 - Works for robots with 3 Odometry wheels and 4 mechanum wheels.
 - Live position/angle tracking along with velocities for each.
